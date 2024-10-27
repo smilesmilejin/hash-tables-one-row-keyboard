@@ -1,5 +1,3 @@
-import pytest
-
 def main():
     # we can write sample calls here
     pass
