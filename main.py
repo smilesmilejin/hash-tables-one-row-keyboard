@@ -1,7 +1,8 @@
 import pytest
 
 def main():
-    pytest.main(["-vv", "-s"])
+    # we can write sample calls here
+    pass
 
 if __name__ == "__main__":
     main()
